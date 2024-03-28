@@ -1,0 +1,35 @@
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\obj\Debug\TRAB.Frmsplash.resources
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\obj\Debug\TRAB.Frmlogin.resources
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\obj\Debug\TRAB.Properties.Resources.resources
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\obj\Debug\TRAB.csproj.GenerateResource.Cache
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\bin\Debug\TRAB.exe
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\bin\Debug\TRAB.pdb
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\obj\Debug\TRAB.exe
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\obj\Debug\TRAB.pdb
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\ResolveAssemblyReference.cache
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.Frmsplash.resources
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.Frmlogin.resources
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.Frmprin.resources
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.Frmcalend.resources
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.Frmsobre.resources
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.Properties.Resources.resources
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.csproj.GenerateResource.Cache
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.exe
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\bin\Debug\TRAB.exe
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\bin\Debug\TRAB.pdb
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.pdb
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.Frmforne.resources
+E:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.exe
+E:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.pdb
+E:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\bin\Debug\TRAB.exe
+E:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\bin\Debug\TRAB.pdb
+E:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\ResolveAssemblyReference.cache
+E:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.Frmsplash.resources
+E:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.Frmlogin.resources
+E:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.Frmprin.resources
+E:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.Frmcalend.resources
+E:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.Frmsobre.resources
+E:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.Frmforne.resources
+E:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.Properties.Resources.resources
+E:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Debug\TRAB.csproj.GenerateResource.Cache

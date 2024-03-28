@@ -1,0 +1,11 @@
+D:\Tecnico\2018\C#\3_Bimestre\Proj0108\Proj0108\bin\Debug\Proj0108.exe.config
+D:\Tecnico\2018\C#\3_Bimestre\Proj0108\Proj0108\bin\Debug\Proj0108.exe
+D:\Tecnico\2018\C#\3_Bimestre\Proj0108\Proj0108\bin\Debug\Proj0108.pdb
+D:\Tecnico\2018\C#\3_Bimestre\Proj0108\Proj0108\obj\Debug\ResolveAssemblyReference.cache
+D:\Tecnico\2018\C#\3_Bimestre\Proj0108\Proj0108\obj\Debug\Proj0108.FrmPrin.resources
+D:\Tecnico\2018\C#\3_Bimestre\Proj0108\Proj0108\obj\Debug\Proj0108.FrmEditora.resources
+D:\Tecnico\2018\C#\3_Bimestre\Proj0108\Proj0108\obj\Debug\Proj0108.FrmLivro.resources
+D:\Tecnico\2018\C#\3_Bimestre\Proj0108\Proj0108\obj\Debug\Proj0108.Properties.Resources.resources
+D:\Tecnico\2018\C#\3_Bimestre\Proj0108\Proj0108\obj\Debug\Proj0108.csproj.GenerateResource.Cache
+D:\Tecnico\2018\C#\3_Bimestre\Proj0108\Proj0108\obj\Debug\Proj0108.exe
+D:\Tecnico\2018\C#\3_Bimestre\Proj0108\Proj0108\obj\Debug\Proj0108.pdb

@@ -1,0 +1,8 @@
+D:\Técnico\2017\Fabi- LP (C#)\Aula2202\Project_2202\Project_2202\bin\Release\Project_2202.exe
+D:\Técnico\2017\Fabi- LP (C#)\Aula2202\Project_2202\Project_2202\bin\Release\Project_2202.pdb
+D:\Técnico\2017\Fabi- LP (C#)\Aula2202\Project_2202\Project_2202\obj\Release\ResolveAssemblyReference.cache
+D:\Técnico\2017\Fabi- LP (C#)\Aula2202\Project_2202\Project_2202\obj\Release\WindowsFormsApplication1.FrmPrin.resources
+D:\Técnico\2017\Fabi- LP (C#)\Aula2202\Project_2202\Project_2202\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Técnico\2017\Fabi- LP (C#)\Aula2202\Project_2202\Project_2202\obj\Release\Project_2202.csproj.GenerateResource.Cache
+D:\Técnico\2017\Fabi- LP (C#)\Aula2202\Project_2202\Project_2202\obj\Release\Project_2202.exe
+D:\Técnico\2017\Fabi- LP (C#)\Aula2202\Project_2202\Project_2202\obj\Release\Project_2202.pdb

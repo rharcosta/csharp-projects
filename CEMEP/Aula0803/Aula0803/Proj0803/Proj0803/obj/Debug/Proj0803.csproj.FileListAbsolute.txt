@@ -1,0 +1,18 @@
+D:\Técnico\2017\Fabi- LP (C#)\Aula0803\Proj0803\Proj0803\bin\Debug\Proj0803.exe
+D:\Técnico\2017\Fabi- LP (C#)\Aula0803\Proj0803\Proj0803\bin\Debug\Proj0803.pdb
+D:\Técnico\2017\Fabi- LP (C#)\Aula0803\Proj0803\Proj0803\obj\Debug\ResolveAssemblyReference.cache
+D:\Técnico\2017\Fabi- LP (C#)\Aula0803\Proj0803\Proj0803\obj\Debug\WindowsFormsApplication1.frmsplash.resources
+D:\Técnico\2017\Fabi- LP (C#)\Aula0803\Proj0803\Proj0803\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Técnico\2017\Fabi- LP (C#)\Aula0803\Proj0803\Proj0803\obj\Debug\Proj0803.csproj.GenerateResource.Cache
+D:\Técnico\2017\Fabi- LP (C#)\Aula0803\Proj0803\Proj0803\obj\Debug\Proj0803.exe
+D:\Técnico\2017\Fabi- LP (C#)\Aula0803\Proj0803\Proj0803\obj\Debug\Proj0803.pdb
+D:\Tecnico\2017\LP (C#)\Aula0803\Proj0803\Proj0803\bin\Debug\Proj0803.exe
+D:\Tecnico\2017\LP (C#)\Aula0803\Proj0803\Proj0803\bin\Debug\Proj0803.pdb
+D:\Tecnico\2017\LP (C#)\Aula0803\Proj0803\Proj0803\obj\Debug\ResolveAssemblyReference.cache
+D:\Tecnico\2017\LP (C#)\Aula0803\Proj0803\Proj0803\obj\Debug\WindowsFormsApplication1.frmsplash.resources
+D:\Tecnico\2017\LP (C#)\Aula0803\Proj0803\Proj0803\obj\Debug\WindowsFormsApplication1.Frmlogin.resources
+D:\Tecnico\2017\LP (C#)\Aula0803\Proj0803\Proj0803\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Tecnico\2017\LP (C#)\Aula0803\Proj0803\Proj0803\obj\Debug\Proj0803.csproj.GenerateResource.Cache
+D:\Tecnico\2017\LP (C#)\Aula0803\Proj0803\Proj0803\obj\Debug\Proj0803.exe
+D:\Tecnico\2017\LP (C#)\Aula0803\Proj0803\Proj0803\obj\Debug\Proj0803.pdb
+D:\Tecnico\2017\LP (C#)\Aula0803\Proj0803\Proj0803\obj\Debug\WindowsFormsApplication1.Frmprin.resources

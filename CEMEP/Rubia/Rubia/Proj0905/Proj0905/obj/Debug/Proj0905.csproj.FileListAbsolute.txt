@@ -1,0 +1,12 @@
+D:\Tecnico\2018\C#\2_Bimestre\Rubia\Proj0905\Proj0905\bin\Debug\Proj0905.exe.config
+D:\Tecnico\2018\C#\2_Bimestre\Rubia\Proj0905\Proj0905\obj\Debug\ResolveAssemblyReference.cache
+D:\Tecnico\2018\C#\2_Bimestre\Rubia\Proj0905\Proj0905\obj\Debug\Proj0905.FrmSplash.resources
+D:\Tecnico\2018\C#\2_Bimestre\Rubia\Proj0905\Proj0905\obj\Debug\Proj0905.Frmlogin.resources
+D:\Tecnico\2018\C#\2_Bimestre\Rubia\Proj0905\Proj0905\obj\Debug\Proj0905.FrmPrin.resources
+D:\Tecnico\2018\C#\2_Bimestre\Rubia\Proj0905\Proj0905\obj\Debug\Proj0905.FrmCadUsuario.resources
+D:\Tecnico\2018\C#\2_Bimestre\Rubia\Proj0905\Proj0905\obj\Debug\Proj0905.Properties.Resources.resources
+D:\Tecnico\2018\C#\2_Bimestre\Rubia\Proj0905\Proj0905\obj\Debug\Proj0905.csproj.GenerateResource.Cache
+D:\Tecnico\2018\C#\2_Bimestre\Rubia\Proj0905\Proj0905\bin\Debug\Proj0905.exe
+D:\Tecnico\2018\C#\2_Bimestre\Rubia\Proj0905\Proj0905\bin\Debug\Proj0905.pdb
+D:\Tecnico\2018\C#\2_Bimestre\Rubia\Proj0905\Proj0905\obj\Debug\Proj0905.exe
+D:\Tecnico\2018\C#\2_Bimestre\Rubia\Proj0905\Proj0905\obj\Debug\Proj0905.pdb

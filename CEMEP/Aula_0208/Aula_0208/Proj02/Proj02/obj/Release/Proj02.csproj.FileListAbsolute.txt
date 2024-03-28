@@ -1,0 +1,8 @@
+D:\Tecnico\2017\LP(C#)\Aula_0208\Proj02\Proj02\bin\Release\Proj02.exe
+D:\Tecnico\2017\LP(C#)\Aula_0208\Proj02\Proj02\bin\Release\Proj02.pdb
+D:\Tecnico\2017\LP(C#)\Aula_0208\Proj02\Proj02\obj\Release\ResolveAssemblyReference.cache
+D:\Tecnico\2017\LP(C#)\Aula_0208\Proj02\Proj02\obj\Release\Proj02.Form1.resources
+D:\Tecnico\2017\LP(C#)\Aula_0208\Proj02\Proj02\obj\Release\Proj02.Properties.Resources.resources
+D:\Tecnico\2017\LP(C#)\Aula_0208\Proj02\Proj02\obj\Release\Proj02.csproj.GenerateResource.Cache
+D:\Tecnico\2017\LP(C#)\Aula_0208\Proj02\Proj02\obj\Release\Proj02.exe
+D:\Tecnico\2017\LP(C#)\Aula_0208\Proj02\Proj02\obj\Release\Proj02.pdb

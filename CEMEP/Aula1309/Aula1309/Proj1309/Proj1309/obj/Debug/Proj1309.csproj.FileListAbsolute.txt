@@ -1,0 +1,9 @@
+E:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\obj\Debug\ResolveAssemblyReference.cache
+E:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\obj\Debug\WindowsFormsApplication1.Frmsplash.resources
+E:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\obj\Debug\WindowsFormsApplication1.Frmprin.resources
+E:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\obj\Debug\Proj1309.csproj.GenerateResource.Cache
+E:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\bin\Debug\Proj1309.exe
+E:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\bin\Debug\Proj1309.pdb
+E:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\obj\Debug\Proj1309.exe
+E:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\obj\Debug\Proj1309.pdb

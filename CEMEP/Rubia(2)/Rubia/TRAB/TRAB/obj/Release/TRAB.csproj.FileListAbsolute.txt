@@ -1,0 +1,22 @@
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\bin\Release\TRAB.exe
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\bin\Release\TRAB.pdb
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\obj\Release\TRAB.Frmsplash.resources
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\obj\Release\TRAB.Frmlogin.resources
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\obj\Release\TRAB.Properties.Resources.resources
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\obj\Release\TRAB.csproj.GenerateResource.Cache
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\obj\Release\TRAB.exe
+C:\Users\Utilizador\AppData\Local\Temporary Projects\TRAB\obj\Release\TRAB.pdb
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Release\TRAB.exe
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Release\TRAB.pdb
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\bin\Release\TRAB.exe
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\bin\Release\TRAB.pdb
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Release\ResolveAssemblyReference.cache
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Release\TRAB.Frmsplash.resources
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Release\TRAB.Frmlogin.resources
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Release\TRAB.Frmprin.resources
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Release\TRAB.Frmcalend.resources
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Release\TRAB.Frmsobre.resources
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Release\TRAB.Properties.Resources.resources
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Release\TRAB.csproj.GenerateResource.Cache
+D:\Tecnico\2017\LP(C#)\Rubia\TRAB\TRAB\obj\Release\TRAB.Frmforne.resources

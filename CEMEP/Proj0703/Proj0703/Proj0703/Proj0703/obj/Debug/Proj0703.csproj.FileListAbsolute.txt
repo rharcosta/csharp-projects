@@ -1,0 +1,3 @@
+D:\Tecnico\2018\Fabi\1_Bimestre\Proj0703\Proj0703\Proj0703\bin\Debug\Proj0703.exe.config
+D:\Tecnico\2018\C#\1_Bimestre\Proj0703\Proj0703\Proj0703\bin\Debug\Proj0703.exe.config
+C:\Users\Usuario\Documents\Rubia\Tecnico\2018\C#\1_Bimestre\Proj0703\Proj0703\Proj0703\bin\Debug\Proj0703.exe.config

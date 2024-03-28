@@ -1,0 +1,13 @@
+E:\Tecnico\2017\LP(C#)\RubiArchanjo\Proj2709\Proj2709\bin\Debug\Proj2709.exe
+E:\Tecnico\2017\LP(C#)\RubiArchanjo\Proj2709\Proj2709\bin\Debug\Proj2709.pdb
+E:\Tecnico\2017\LP(C#)\RubiArchanjo\Proj2709\Proj2709\obj\Debug\ResolveAssemblyReference.cache
+E:\Tecnico\2017\LP(C#)\RubiArchanjo\Proj2709\Proj2709\obj\Debug\WindowsFormsApplication1.Formsplash.resources
+E:\Tecnico\2017\LP(C#)\RubiArchanjo\Proj2709\Proj2709\obj\Debug\WindowsFormsApplication1.Formprin.resources
+E:\Tecnico\2017\LP(C#)\RubiArchanjo\Proj2709\Proj2709\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Tecnico\2017\LP(C#)\RubiArchanjo\Proj2709\Proj2709\obj\Debug\Proj2709.csproj.GenerateResource.Cache
+E:\Tecnico\2017\LP(C#)\RubiArchanjo\Proj2709\Proj2709\obj\Debug\Proj2709.exe
+E:\Tecnico\2017\LP(C#)\RubiArchanjo\Proj2709\Proj2709\obj\Debug\Proj2709.pdb
+E:\Tecnico\2017\LP(C#)\RubiArchanjo\Proj2709\Proj2709\obj\Debug\WindowsFormsApplication1.Formcalend.resources
+E:\Tecnico\2017\LP(C#)\RubiArchanjo\Proj2709\Proj2709\obj\Debug\WindowsFormsApplication1.Formprod.resources
+D:\Tecnico\2017\LP(C#)\RubiArchanjo\Proj2709\Proj2709\obj\Debug\Proj2709.exe
+D:\Tecnico\2017\LP(C#)\RubiArchanjo\Proj2709\Proj2709\obj\Debug\Proj2709.pdb

@@ -1,0 +1,44 @@
+C:\Users\Usuario\AppData\Local\Temporary Projects\Proj2103\bin\Debug\Proj2103.exe.config
+C:\Users\Usuario\AppData\Local\Temporary Projects\Proj2103\bin\Debug\Proj2103.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\Proj2103\bin\Debug\Proj2103.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\Proj2103\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\Proj2103\obj\Debug\Proj2103.Form1.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Proj2103\obj\Debug\Proj2103.FrmFilme.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Proj2103\obj\Debug\Proj2103.Properties.Resources.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Proj2103\obj\Debug\Proj2103.csproj.GenerateResource.Cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\Proj2103\obj\Debug\Proj2103.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\Proj2103\obj\Debug\Proj2103.pdb
+E:\Tecnico\2018\Fabi\1_Bimestre\Rubia\Proj2103\Proj2103\bin\Debug\Proj2103.exe.config
+E:\Tecnico\2018\Fabi\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.exe
+E:\Tecnico\2018\Fabi\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.pdb
+E:\Tecnico\2018\Fabi\1_Bimestre\Rubia\Proj2103\Proj2103\bin\Debug\Proj2103.exe
+E:\Tecnico\2018\Fabi\1_Bimestre\Rubia\Proj2103\Proj2103\bin\Debug\Proj2103.pdb
+E:\Tecnico\2018\Fabi\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\ResolveAssemblyReference.cache
+E:\Tecnico\2018\Fabi\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.Form1.resources
+E:\Tecnico\2018\Fabi\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.FrmFilme.resources
+E:\Tecnico\2018\Fabi\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.Properties.Resources.resources
+E:\Tecnico\2018\Fabi\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.csproj.GenerateResource.Cache
+D:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\bin\Debug\Proj2103.exe.config
+D:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.exe
+D:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.pdb
+D:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\bin\Debug\Proj2103.exe
+D:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\bin\Debug\Proj2103.pdb
+D:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\ResolveAssemblyReference.cache
+D:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.FrmPrin.resources
+D:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.FrmFilme.resources
+D:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.FrmCli.resources
+D:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.FrmLoc.resources
+D:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.Properties.Resources.resources
+D:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.csproj.GenerateResource.Cache
+E:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\bin\Debug\Proj2103.exe.config
+E:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.exe
+E:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.pdb
+E:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\bin\Debug\Proj2103.exe
+E:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\bin\Debug\Proj2103.pdb
+E:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\ResolveAssemblyReference.cache
+E:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.FrmPrin.resources
+E:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.FrmFilme.resources
+E:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.FrmCli.resources
+E:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.FrmLoc.resources
+E:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.Properties.Resources.resources
+E:\Tecnico\2018\C#\1_Bimestre\Rubia\Proj2103\Proj2103\obj\Debug\Proj2103.csproj.GenerateResource.Cache

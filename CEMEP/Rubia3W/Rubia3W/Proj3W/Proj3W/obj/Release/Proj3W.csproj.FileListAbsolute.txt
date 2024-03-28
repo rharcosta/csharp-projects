@@ -1,0 +1,17 @@
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\bin\Release\Proj3W.exe.config
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\bin\Release\Proj3W.exe
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\bin\Release\Proj3W.pdb
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\obj\Release\ResolveAssemblyReference.cache
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\obj\Release\Proj3W.FrmSplash.resources
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\obj\Release\Proj3W.FrmLogin.resources
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\obj\Release\Proj3W.FrmPrin.resources
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\obj\Release\Proj3W.FrmCalendario.resources
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\obj\Release\Proj3W.FrmSobre.resources
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\obj\Release\Proj3W.FrmUsu.resources
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\obj\Release\Proj3W.FrmEmp.resources
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\obj\Release\Proj3W.FrmCand.resources
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\obj\Release\Proj3W.FrmVagas.resources
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\obj\Release\Proj3W.Properties.Resources.resources
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\obj\Release\Proj3W.csproj.GenerateResource.Cache
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\obj\Release\Proj3W.exe
+D:\Tecnico\2018\C#\2_Bimestre\Rubia3W\Proj3W\Proj3W\obj\Release\Proj3W.pdb

@@ -1,0 +1,14 @@
+D:\Tecnico\2017\LP(C#)\Joao_Rubia\Provaw\Provaw\obj\Release\ResolveAssemblyReference.cache
+D:\Tecnico\2017\LP(C#)\Joao_Rubia\Provaw\Provaw\obj\Release\WindowsFormsApplication1.Frmsplash.resources
+D:\Tecnico\2017\LP(C#)\Joao_Rubia\Provaw\Provaw\obj\Release\WindowsFormsApplication1.Frmlogin.resources
+D:\Tecnico\2017\LP(C#)\Joao_Rubia\Provaw\Provaw\obj\Release\WindowsFormsApplication1.Frmprin.resources
+D:\Tecnico\2017\LP(C#)\Joao_Rubia\Provaw\Provaw\obj\Release\WindowsFormsApplication1.Frmcalend.resources
+D:\Tecnico\2017\LP(C#)\Joao_Rubia\Provaw\Provaw\obj\Release\WindowsFormsApplication1.Frmaluno.resources
+D:\Tecnico\2017\LP(C#)\Joao_Rubia\Provaw\Provaw\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Tecnico\2017\LP(C#)\Joao_Rubia\Provaw\Provaw\obj\Release\Provaw.csproj.GenerateResource.Cache
+D:\Tecnico\2017\LP(C#)\Joao_Rubia\Provaw\Provaw\bin\Release\Provaw.exe
+D:\Tecnico\2017\LP(C#)\Joao_Rubia\Provaw\Provaw\bin\Release\Provaw.pdb
+D:\Tecnico\2017\LP(C#)\Joao_Rubia\Provaw\Provaw\obj\Release\Provaw.exe
+D:\Tecnico\2017\LP(C#)\Joao_Rubia\Provaw\Provaw\obj\Release\Provaw.pdb
+E:\Tecnico\2017\LP(C#)\Joao_Rubia\Provaw\Provaw\obj\Release\Provaw.exe
+E:\Tecnico\2017\LP(C#)\Joao_Rubia\Provaw\Provaw\obj\Release\Provaw.pdb

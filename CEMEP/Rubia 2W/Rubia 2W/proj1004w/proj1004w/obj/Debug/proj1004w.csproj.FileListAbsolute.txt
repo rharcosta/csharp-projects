@@ -1,0 +1,60 @@
+C:\Users\Utilizador\AppData\Local\Temporary Projects\proj1004w\bin\Debug\proj1004w.exe
+C:\Users\Utilizador\AppData\Local\Temporary Projects\proj1004w\bin\Debug\proj1004w.pdb
+C:\Users\Utilizador\AppData\Local\Temporary Projects\proj1004w\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Utilizador\AppData\Local\Temporary Projects\proj1004w\obj\Debug\proj1004w.Form1.resources
+C:\Users\Utilizador\AppData\Local\Temporary Projects\proj1004w\obj\Debug\proj1004w.Properties.Resources.resources
+C:\Users\Utilizador\AppData\Local\Temporary Projects\proj1004w\obj\Debug\proj1004w.csproj.GenerateResource.Cache
+C:\Users\Utilizador\AppData\Local\Temporary Projects\proj1004w\obj\Debug\proj1004w.exe
+C:\Users\Utilizador\AppData\Local\Temporary Projects\proj1004w\obj\Debug\proj1004w.pdb
+D:\João\proj1004w\proj1004w\obj\Debug\ResolveAssemblyReference.cache
+D:\João\proj1004w\proj1004w\obj\Debug\proj1004w.frmsplash.resources
+D:\João\proj1004w\proj1004w\obj\Debug\proj1004w.Properties.Resources.resources
+D:\João\proj1004w\proj1004w\obj\Debug\proj1004w.csproj.GenerateResource.Cache
+D:\João\proj1004w\proj1004w\obj\Debug\proj1004w.exe
+D:\João\proj1004w\proj1004w\bin\Debug\proj1004w.exe
+D:\João\proj1004w\proj1004w\bin\Debug\proj1004w.pdb
+D:\João\proj1004w\proj1004w\obj\Debug\proj1004w.frmlogin.resources
+D:\João\proj1004w\proj1004w\obj\Debug\proj1004w.pdb
+D:\João\proj1004w\proj1004w\obj\Debug\proj1004w.frmprin.resources
+D:\João\proj1004w\proj1004w\obj\Debug\proj1004w.fmrsobre.resources
+D:\Tecnico\2017\LP(C#)\proj1004w\proj1004w\obj\Debug\proj1004w.exe
+D:\Tecnico\2017\LP(C#)\proj1004w\proj1004w\obj\Debug\proj1004w.pdb
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004\proj1004w\bin\Debug\proj1004w.exe
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004\proj1004w\bin\Debug\proj1004w.pdb
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004\proj1004w\obj\Debug\ResolveAssemblyReference.cache
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004\proj1004w\obj\Debug\proj1004w.frmsplash.resources
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004\proj1004w\obj\Debug\proj1004w.frmlogin.resources
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004\proj1004w\obj\Debug\proj1004w.frmprin.resources
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004\proj1004w\obj\Debug\proj1004w.Properties.Resources.resources
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004\proj1004w\obj\Debug\proj1004w.csproj.GenerateResource.Cache
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004\proj1004w\obj\Debug\proj1004w.exe
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004\proj1004w\obj\Debug\proj1004w.pdb
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004\proj1004w\obj\Debug\proj1004w.Formsobre.resources
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004\proj1004w\obj\Debug\proj1004w.Formcli.resources
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004\proj1004w\obj\Debug\proj1004w.Formvenda.resources
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.exe
+D:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\bin\Debug\proj1004w.exe
+D:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\bin\Debug\proj1004w.pdb
+D:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\ResolveAssemblyReference.cache
+D:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.frmsplash.resources
+D:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.frmlogin.resources
+D:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.frmprin.resources
+D:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.Formsobre.resources
+D:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.Formcli.resources
+D:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.Formvenda.resources
+D:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.Properties.Resources.resources
+D:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.csproj.GenerateResource.Cache
+D:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.exe
+D:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.pdb
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\bin\Debug\proj1004w.exe
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\bin\Debug\proj1004w.pdb
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\ResolveAssemblyReference.cache
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.frmsplash.resources
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.frmlogin.resources
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.frmprin.resources
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.Formsobre.resources
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.Formcli.resources
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.Formvenda.resources
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.Properties.Resources.resources
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.csproj.GenerateResource.Cache
+E:\Tecnico\2017\LP(C#)\Rubia 2W\proj1004w\proj1004w\obj\Debug\proj1004w.pdb

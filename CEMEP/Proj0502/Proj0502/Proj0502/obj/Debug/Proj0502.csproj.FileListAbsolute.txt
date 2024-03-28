@@ -1,0 +1,26 @@
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Proj0502\bin\Debug\Proj0502.exe
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Proj0502\bin\Debug\Proj0502.pdb
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Proj0502\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Proj0502\obj\Debug\Proj0502.FrmSplash.resources
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Proj0502\obj\Debug\Proj0502.FrmLogin.resources
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Proj0502\obj\Debug\Proj0502.Properties.Resources.resources
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Proj0502\obj\Debug\Proj0502.csproj.GenerateResource.Cache
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Proj0502\obj\Debug\Proj0502.exe
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Proj0502\obj\Debug\Proj0502.pdb
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Proj0502\obj\Debug\Proj0502.FrmPrin.resources
+D:\Tecnico\2018\Fabi\Proj0502\Proj0502\obj\Debug\Proj0502.exe
+D:\Tecnico\2018\Fabi\Proj0502\Proj0502\obj\Debug\Proj0502.pdb
+D:\Tecnico\2018\Fabi\Proj0502\Proj0502\bin\Debug\Proj0502.exe
+D:\Tecnico\2018\Fabi\Proj0502\Proj0502\bin\Debug\Proj0502.pdb
+D:\Tecnico\2018\Fabi\Proj0502\Proj0502\obj\Debug\ResolveAssemblyReference.cache
+D:\Tecnico\2018\Fabi\Proj0502\Proj0502\obj\Debug\Proj0502.FrmSplash.resources
+D:\Tecnico\2018\Fabi\Proj0502\Proj0502\obj\Debug\Proj0502.FrmLogin.resources
+D:\Tecnico\2018\Fabi\Proj0502\Proj0502\obj\Debug\Proj0502.FrmPrin.resources
+D:\Tecnico\2018\Fabi\Proj0502\Proj0502\obj\Debug\Proj0502.Properties.Resources.resources
+D:\Tecnico\2018\Fabi\Proj0502\Proj0502\obj\Debug\Proj0502.csproj.GenerateResource.Cache
+D:\Tecnico\2018\Fabi\1_Bimestre\Proj0502\Proj0502\bin\Debug\Proj0502.exe.config
+D:\Tecnico\2018\Fabi\1_Bimestre\Proj0502\Proj0502\obj\Debug\Proj0502.exe
+D:\Tecnico\2018\Fabi\1_Bimestre\Proj0502\Proj0502\obj\Debug\Proj0502.pdb
+C:\Users\Usuario\Documents\Rubia\Tecnico\2018\C#\1_Bimestre\Proj0502\Proj0502\bin\Debug\Proj0502.exe.config
+C:\Users\Usuario\Documents\Rubia\Tecnico\2018\C#\1_Bimestre\Proj0502\Proj0502\obj\Debug\Proj0502.exe
+C:\Users\Usuario\Documents\Rubia\Tecnico\2018\C#\1_Bimestre\Proj0502\Proj0502\obj\Debug\Proj0502.pdb

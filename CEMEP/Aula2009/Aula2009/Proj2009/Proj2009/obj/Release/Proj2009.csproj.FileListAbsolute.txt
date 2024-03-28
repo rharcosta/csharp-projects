@@ -1,0 +1,10 @@
+D:\Tecnico\2017\LP(C#)\Aula2009\Proj2009\Proj2009\bin\Release\Proj2009.exe
+D:\Tecnico\2017\LP(C#)\Aula2009\Proj2009\Proj2009\bin\Release\Proj2009.pdb
+D:\Tecnico\2017\LP(C#)\Aula2009\Proj2009\Proj2009\obj\Release\ResolveAssemblyReference.cache
+D:\Tecnico\2017\LP(C#)\Aula2009\Proj2009\Proj2009\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\Tecnico\2017\LP(C#)\Aula2009\Proj2009\Proj2009\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Tecnico\2017\LP(C#)\Aula2009\Proj2009\Proj2009\obj\Release\Proj2009.csproj.GenerateResource.Cache
+D:\Tecnico\2017\LP(C#)\Aula2009\Proj2009\Proj2009\obj\Release\Proj2009.exe
+D:\Tecnico\2017\LP(C#)\Aula2009\Proj2009\Proj2009\obj\Release\Proj2009.pdb
+E:\Tecnico\2017\LP(C#)\Aula2009\Proj2009\Proj2009\obj\Release\Proj2009.exe
+E:\Tecnico\2017\LP(C#)\Aula2009\Proj2009\Proj2009\obj\Release\Proj2009.pdb

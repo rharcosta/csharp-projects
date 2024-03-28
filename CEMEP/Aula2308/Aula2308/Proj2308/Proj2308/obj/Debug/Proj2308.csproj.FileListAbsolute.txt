@@ -1,0 +1,8 @@
+D:\Tecnico\2017\LP(C#)\Aula2308\Proj2308\Proj2308\bin\Debug\Proj2308.exe
+D:\Tecnico\2017\LP(C#)\Aula2308\Proj2308\Proj2308\bin\Debug\Proj2308.pdb
+D:\Tecnico\2017\LP(C#)\Aula2308\Proj2308\Proj2308\obj\Debug\ResolveAssemblyReference.cache
+D:\Tecnico\2017\LP(C#)\Aula2308\Proj2308\Proj2308\obj\Debug\Proj2308.Frmped.resources
+D:\Tecnico\2017\LP(C#)\Aula2308\Proj2308\Proj2308\obj\Debug\Proj2308.Properties.Resources.resources
+D:\Tecnico\2017\LP(C#)\Aula2308\Proj2308\Proj2308\obj\Debug\Proj2308.csproj.GenerateResource.Cache
+D:\Tecnico\2017\LP(C#)\Aula2308\Proj2308\Proj2308\obj\Debug\Proj2308.exe
+D:\Tecnico\2017\LP(C#)\Aula2308\Proj2308\Proj2308\obj\Debug\Proj2308.pdb

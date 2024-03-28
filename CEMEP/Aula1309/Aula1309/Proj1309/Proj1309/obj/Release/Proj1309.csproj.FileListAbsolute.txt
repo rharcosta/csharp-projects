@@ -1,0 +1,11 @@
+D:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\bin\Release\Proj1309.exe
+D:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\bin\Release\Proj1309.pdb
+D:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\obj\Release\ResolveAssemblyReference.cache
+D:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\obj\Release\WindowsFormsApplication1.Frmsplash.resources
+D:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\obj\Release\WindowsFormsApplication1.Frmprin.resources
+D:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\obj\Release\Proj1309.csproj.GenerateResource.Cache
+D:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\obj\Release\Proj1309.exe
+D:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\obj\Release\Proj1309.pdb
+E:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\obj\Release\Proj1309.exe
+E:\Tecnico\2017\LP(C#)\Aula1309\Proj1309\Proj1309\obj\Release\Proj1309.pdb
